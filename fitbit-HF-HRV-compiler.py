@@ -8,7 +8,7 @@ import pandas as pd
 import os
 import datetime
 import re
-get_ipython().run_line_magic('config', "InlineBackend.figure_format='retina'")
+#get_ipython().run_line_magic('config', "InlineBackend.figure_format='retina'")
 pd.set_option("max_rows",None)
 
 
